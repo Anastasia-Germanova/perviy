@@ -1,0 +1,21 @@
+header{
+    background-color: red;
+    color: white;
+    height: 300px;
+    width: auto;
+    font-size: 100px;
+}
+main{
+    background-color: green;
+    color: white;
+    height: 300px;
+    width: auto;
+    font-size: 100px;
+}
+footer{
+    background-color: blue;
+    color: white;
+     height: 300px;
+    width: auto;
+    font-size: 100px;
+}
